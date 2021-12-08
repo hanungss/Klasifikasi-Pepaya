@@ -1,0 +1,1 @@
+Ini adalah aplikasi untuk klasifikasi kematangan pepaya dengan menggunakan MATLAB. Anda bisa gunakan ini sebagai referensi untuk pengembangan aplikasi menggunakan klasifikasi naive bayes dengan pendekatan Gray Level Coocurence Matrix (GLCM).
